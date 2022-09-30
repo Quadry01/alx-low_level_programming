@@ -1,1 +1,1 @@
-New Readme file
+New Readme file in static library
