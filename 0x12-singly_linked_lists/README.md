@@ -1,1 +1,1 @@
-README for singly
+Readme on singly
